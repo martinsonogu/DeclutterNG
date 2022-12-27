@@ -39,7 +39,8 @@
   }
 }
 .product img {
-  width: 250px;
+  max-width: 300px;
+  max-height: 370px;
 }
 
 .product .description {
