@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/DeclutterNG/static/css/main.9f953f85.css",
-    "main.js": "/DeclutterNG/static/js/main.6ca3dcd0.js",
+    "main.css": "/DeclutterNG/static/css/main.d9881527.css",
+    "main.js": "/DeclutterNG/static/js/main.748a9ce6.js",
     "index.html": "/DeclutterNG/index.html",
-    "main.9f953f85.css.map": "/DeclutterNG/static/css/main.9f953f85.css.map",
-    "main.6ca3dcd0.js.map": "/DeclutterNG/static/js/main.6ca3dcd0.js.map"
+    "main.d9881527.css.map": "/DeclutterNG/static/css/main.d9881527.css.map",
+    "main.748a9ce6.js.map": "/DeclutterNG/static/js/main.748a9ce6.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f953f85.css",
-    "static/js/main.6ca3dcd0.js"
+    "static/css/main.d9881527.css",
+    "static/js/main.748a9ce6.js"
   ]
 }
